@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Telecommunication and Information Enginerring Student and a Software engineer<br>
+I am a Telecommunication and Information Engineering Student and a Software Developer<br>
 
 
 ## 🌐 Socials:
